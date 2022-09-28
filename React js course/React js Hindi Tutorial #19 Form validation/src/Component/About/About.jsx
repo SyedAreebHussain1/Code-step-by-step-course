@@ -1,0 +1,9 @@
+// rcc karny se class component bun jaye ga
+import React, { Component } from 'react'
+export default class About extends Component {
+  render() {
+    return (
+      <div>About</div>
+    )
+  }
+}

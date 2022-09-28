@@ -1,0 +1,5 @@
+search REact Bootstrap
+npm install react-bootstrap bootstrap
+
+add file in index.js | ==> import 'bootstrap/dist/css/bootstrap.min.css';
+

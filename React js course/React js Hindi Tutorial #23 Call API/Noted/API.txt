@@ -1,0 +1,7 @@
+API FAKE
+https://reqres.in/
+GET CLICK
+REQUEST CLICK
+
+ye bhi url use karsakty ho
+https://reqres.in/api/users?page=2

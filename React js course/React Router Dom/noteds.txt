@@ -1,0 +1,7 @@
+search=> create react app
+click link=> facebook/create-react-app - GitHub
+
+folder>npx create-react-app appName
+folder>node -v (version)
+folder>npm -v (version)
+folder>npm start
